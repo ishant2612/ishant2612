@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ishant2612
-- 👀 I’m interested in ai
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Machine Learning and programming 
+- 🌱 I’m currently learning AI and ML 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram:- ishant1514
+- 📫 How to reach me instagram:- vishant448@gmail.com
 
 <!---
 ishant2612/ishant2612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
