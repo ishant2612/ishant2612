@@ -1,7 +1,7 @@
 # Konnichiwa 👋
 
 ### <  I'm Ishant Verma  >&nbsp;&nbsp;
-### [ My Portfolio Website ]([https://portfolio-v1-theta-seven.vercel.app/])
+### [ My Portfolio Website ](https://portfolio-v1-theta-seven.vercel.app/)
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
