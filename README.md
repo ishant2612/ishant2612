@@ -47,8 +47,8 @@
 </br>
 </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-SouravSingh49-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishant-verma-9ab995220/)](https://www.linkedin.com/in/ishant-verma-9ab995220/)
-[![Instagram Badge](https://img.shields.io/badge/-Sourav.Singh49-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ishant26_12/)](https://instagram.com/ishant26_12)
+[![Linkedin Badge](https://img.shields.io/badge/-IshantVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishant-verma-9ab995220/)](https://www.linkedin.com/in/ishant-verma-9ab995220/)
+[![Instagram Badge](https://img.shields.io/badge/-Ishant26_12-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ishant26_12/)](https://instagram.com/ishant26_12)
 [![Gmail Badge](https://img.shields.io/badge/-vishant448@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishant448@gmail.com)](mailto:vishant448@gmail.com)
 
 
