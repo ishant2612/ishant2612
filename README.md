@@ -7,8 +7,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishant26_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:https://www.linkedin.com/in/ishant-verma-9ab995220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-
+[![Linkedin Badge](https://img.shields.io/badge/-IshantVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishant-verma-9ab995220/)](https://www.linkedin.com/in/ishant-verma-9ab995220/)
+[![Instagram Badge](https://img.shields.io/badge/-Ishant26_12-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ishant26_12/)](https://instagram.com/ishant26_12)
+[![Gmail Badge](https://img.shields.io/badge/-vishant448@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishant448@gmail.com)](mailto:vishant448@gmail.com)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 </br>
@@ -41,30 +42,7 @@
 </br>
 
 
----
-## Social Media Handles 🔍:
-</br>
 
-
-<p align="left">
-
-
-
-<img hight="300" width="400" align="right" alt="GIF" src="https://telegra.ph/file/6878fa3d795ee02b3dc9e.jpg">&nbsp;
-
-</br>
-</br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-IshantVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishant-verma-9ab995220/)](https://www.linkedin.com/in/ishant-verma-9ab995220/)
-[![Instagram Badge](https://img.shields.io/badge/-Ishant26_12-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ishant26_12/)](https://instagram.com/ishant26_12)
-[![Gmail Badge](https://img.shields.io/badge/-vishant448@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishant448@gmail.com)](mailto:vishant448@gmail.com)
-
-
-</br>
-
-</p>
-</br>
-</br>&nbsp;
 
 
 -----------
