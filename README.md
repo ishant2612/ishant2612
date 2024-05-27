@@ -1,7 +1,7 @@
 # Konnichiwa 👋
 
 ### <  I'm Ishant Verma  >&nbsp;&nbsp;
-### [ My Portfolio Website ](https://portfolio-v1-theta-seven.vercel.app/)
+### [ My Portfolio Website ](https://ishant-portfolio.vercel.app/)
 # 💫 About Me:
 👋 A technology enthusiast specializing in AI/ML, Web-development and computer vision. Currently pursuing B.Tech in CSE (AIML) at NIET, I'm passionate about exploring innovative tech solutions.<br><br>🚀 With a strong background in deep learning and machine learning, I've worked on diverse projects,like accident detection systems and controlling my system via computer vision.<br><br>🔭 I'm always eager to learn and contribute to cutting-edge projects. Let's connect and collaborate on exciting tech ventures!
 
