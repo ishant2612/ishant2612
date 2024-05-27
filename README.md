@@ -2,6 +2,12 @@
 
 ### <  I'm Ishant Verma  >&nbsp;&nbsp;
 ### [ My Portfolio Website ](https://portfolio-v1-theta-seven.vercel.app/)
+# 💫 About Me:
+👋 A technology enthusiast specializing in AI/ML, Web-development and computer vision. Currently pursuing B.Tech in CSE (AIML) at NIET, I'm passionate about exploring innovative tech solutions.<br><br>🚀 With a strong background in deep learning and machine learning, I've worked on diverse projects,like accident detection systems and controlling my system via computer vision.<br><br>🔭 I'm always eager to learn and contribute to cutting-edge projects. Let's connect and collaborate on exciting tech ventures!
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishant26_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:https://www.linkedin.com/in/ishant-verma-9ab995220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -16,15 +22,15 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)
-![React.js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg)
-![Node.js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg)
-![VS Code](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PHP](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/php.svg)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)<br/>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)<br/>
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)<br/>
+![JavaScript](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)<br/>
+![React.js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg)<br/>
+![Node.js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg)<br/>
+![VS Code](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg)<br/>
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)<br/>
+![PHP](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/php.svg)<br/>
 
 
 
