@@ -16,8 +16,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ishant2612&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishant2612&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishant2612&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-# 🎯Leetcode Stats:
 
+# 🎯Leetcode Stats:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Flash_hacker26&theme=dark)](https://leetcode.com/u/Flash_hacker26/)
 
 ### ✍️ Random Dev Quote
