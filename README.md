@@ -30,7 +30,7 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishant2612&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ishant2612&icon=0&color=0)](https://visitcount.itsvg.in/analytics/ishant2612)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
