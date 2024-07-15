@@ -18,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishant2612&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 🎯Leetcode Stats:
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Flash_hacker26&theme=dark)](https://leetcode.com/u/Flash_hacker26/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Flash_hacker26?theme=dark&font=Secular%20One&ext=heatmap)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
